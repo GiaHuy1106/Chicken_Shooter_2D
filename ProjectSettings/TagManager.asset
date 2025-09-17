@@ -12,6 +12,8 @@ TagManager:
   - Present
   - Boss
   - BottomWall
+  - loadBar
+  - processBar
   layers:
   - Default
   - TransparentFX

@@ -28,6 +28,6 @@ public class HomeUI : MonoBehaviour
         }
 
         canvasGroup.alpha = 0;
-        SceneManager.LoadSceneAsync("Scene_1");
+        SceneManager.LoadSceneAsync("GameScene");
     }
 }
